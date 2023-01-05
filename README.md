@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YaBoyBigPat
 - 👀 I’m interested in coding in Java to make apps and games.
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate with anyone who is also learning or is willing to help in my learning process.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate with anyone who is also learning so we can help each other!
 - 📫 How to reach me patharrell99@gmail.com
 
 <!---
