@@ -26,6 +26,7 @@
 
 [Python Web Scraper and Machine Learning Project (NBA MVP Predictor)](https://github.com/YaBoyBigPat/Python-Web-Scraper)
 
+[DSSG Dashboard Presentation](https://www.youtube.com/live/VfJNe8VmRwA?si=qvWsnbM5SPwfctvG&t=2084)
 <!---
 YaBoyBigPat/YaBoyBigPat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
