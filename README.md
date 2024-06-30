@@ -3,7 +3,7 @@
 - 👀 I’m interested in programming with Java/Kotlin for android development and Python for data science.
 - 🏫Previous Data Science for Social Good Intern [DSSG 2023](https://dssg.unf.edu/2023program.html)
 - 🤔 I’d be interested in collaborating with anyone who's also learning data science or android development!
-- 📫 You can reach me patharrell99@gmail.com
+- 📫 You can reach me patharr98@gmail.com
 <h2 align="left"> 💻 Tech Stack </h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
